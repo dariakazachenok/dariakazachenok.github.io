@@ -215,11 +215,13 @@ p {
   margin-bottom: 10px;
   color: #97AAC3;
 }
-.main-wrapper .project-title {
+.main-wrapper .title {
   font-size: 16px;
   font-weight: 400;
   margin-top: 0;
   margin-bottom: 5px;
+  color: black;
+  font-style:italic;
 }
 .main-wrapper .projects-section .intro {
   margin-bottom: 30px;
