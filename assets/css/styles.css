@@ -1,5 +1,5 @@
 /*   
- * Template Name: Orbit - Responsive Resume/CV Template for Developers
+ * Template Name: Orbit - Responsive e/CV Template for Developers
  * Version: 1.0
  * Author: Xiaoying Riley
  * Twitter: @3rdwave_themes
@@ -291,6 +291,9 @@ p {
     float: left;
     position: relative;
     top: 1px;
+  }
+  .summary {
+   text-align: justify;
   }
 }
 /* Large devices (large desktops, 1200px and up) */
