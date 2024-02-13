@@ -229,6 +229,15 @@ p {
   color: black;
   font-style:italic;
 }
+
+.main-wrapper .job-title {
+  color: #2d7788;
+  font-size: 16px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-weight: 500;
+}
+
 .main-wrapper .projects-section .intro {
   margin-bottom: 30px;
 }
